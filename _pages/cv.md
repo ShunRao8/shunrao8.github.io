@@ -16,27 +16,27 @@ Education
 
 Work experience
 ======
-* August 2022 - Now: <u>Graduate Research Assistant</u>
+* <u>August 2022 - Now: Graduate Research Assistant</u>
   * Biostatistics Department, The University of Texas MD Anderson Cancer Center
     * Elicit Informative Priors for PK Model Parameters Using Published PK Summary Statistics
     * Develop a Phase 2 Bayesian Adaptive Trial Design Integrating PK/PD for Subcutaneously Administered mAbs
     * Develop a Semi-Mechanistic Dose-Finding (SDF) Design Using PK/PD Modeling for Post-Marketing Drugs
   * Supervisor: Professor Yisheng Li
 
-* September 2021 - December 2021: <u>Research Assistant</u>
+* <u>September 2021 - December 2021: Research Assistant</u>
   * Shenzhen Research Institute of Big Data
     * Developed a novel framework for exploratory network mediator analysis in omics data
     * Conducted simulation studies and developed an R package to validate the framework's effectiveness
   * Supervisor: Professor Tianwei Yu
 
-* September 2019 - August 2020: <u>Biostatistics Undergraduate Student Intern</u>
+* <u>September 2019 - August 2020: Biostatistics Undergraduate Student Intern</u>
   * Infectious Disease Department, Boston Children’s Hospital, Harvard Medical School
     * Implemented data visualization and exploration tools to facilitate analysis of data from a joint project with the Expanded Program on Immunology in Children - Human Immunology Project Concortium (EPIC-HIPC)
     * Developed an RShiny application to facilitate real-time, interactive data visualization on a centralized platform
     * Simulated influenza time series data and evaluated epidemic thresholds for estimating excess mortality
   * Supervisor: Professor Al Ozonoff, Professor Joann Diray-Arce
 
-* July 2017 - August 2019: <u>Undergraduate Research Assistant</u>
+* <u>July 2017 - August 2019: Undergraduate Research Assistant</u>
   * Shenzhen Key Laboratory of Steroid Drug Discovery and Development
     * Accurately modeled protein structures and simulated molecular docking processes to investigate the binding interactions between structurally diverse compounds and human Protein Disulfide Isomerase (PDI)
     * Explored the molecular mechanisms that allow certain naturally occurring bioflavonoids to function as reducing co-substrates, using quantum chemical calculation tools such as Gaussian and Multiwfn

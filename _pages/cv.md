@@ -35,6 +35,13 @@ Work experience
     * Developed an RShiny application to facilitate real-time, interactive data visualization on a centralized platform
     * Simulated influenza time series data and evaluated epidemic thresholds for estimating excess mortality
   * Supervisor: Professor Al Ozonoff, Professor Joann Diray-Arce
+
+* July 2017 - August 2019: Undergraduate Research Assistant
+  * Shenzhen Key Laboratory of Steroid Drug Discovery and Development
+    * Accurately modeled protein structures and simulated molecular docking processes to investigate the binding interactions between structurally diverse compounds and human Protein Disulfide Isomerase (PDI)
+    * Explored the molecular mechanisms that allow certain naturally occurring bioflavonoids to function as reducing co-substrates, using quantum chemical calculation tools such as Gaussian and Multiwfn
+  * Supervisor: Professor Baoting Zhu
+
   
 Skills
 ======
@@ -42,7 +49,7 @@ Skills
 * Tools: MySQL, HTML, Discovery Studio, Gaussian, Multiwfn
 * Interests: Badminton (national registered player), Basketball (varsity member), Piano
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}

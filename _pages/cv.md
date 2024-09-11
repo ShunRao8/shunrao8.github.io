@@ -11,26 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biostatistics, The University of Texas MD Anderson Cancer Center Graduate School of Biomedical Sciences, 2026 (expected)
+* B.S. in Statistics, The Chinese University of Hong Kong, Shenzhen, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2022 - Now: Graduate Research Assistant
+  * Biostatistics Department, The University of Texas MD Anderson Cancer Center
+    * Elicit Informative Priors for PK Model Parameters Using Published PK Summary Statistics
+    * Develop a Phase 2 Bayesian Adaptive Trial Design Integrating PK/PD for Subcutaneously Administered mAbs
+    * Develop a Semi-Mechanistic Dose-Finding (SDF) Design Using PK/PD Modeling for Post-Marketing Drugs
+  * Supervisor: Professor Yisheng Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2021 - December 2021: Research Assistant
+  * Shenzhen Research Institute of Big Data
+    * Developed a novel framework for exploratory network mediator analysis in omics data
+    * Conducted simulation studies and developed an R package to validate the framework's effectiveness
+  * Supervisor: Professor Tianwei Yu
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2019 - August 2020: Biostatistics Undergraduate Student Intern
+  * Infectious Disease Department, Boston Children’s Hospital, Harvard Medical School
+    * Implemented data visualization and exploration tools to facilitate analysis of data from a joint project with the Expanded Program on Immunology in Children - Human Immunology Project Concortium (EPIC-HIPC)
+    * Developed an RShiny application to facilitate real-time, interactive data visualization on a centralized platform
+    * Simulated influenza time series data and evaluated epidemic thresholds for estimating excess mortality
+  * Supervisor: Professor Al Ozonoff, Professor Joann Diray-Arce
   
 Skills
 ======

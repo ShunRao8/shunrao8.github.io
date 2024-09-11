@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "life.jpeg"
+  avatar           : "https://shunrao8.github.io/files/life.jpeg"
   name             : "Shun Rao"
   pronouns         : "she/her"  
   bio              : "PhD candidate in Biostatistics"
@@ -34,9 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=aq9OUboAAAAJ&hl=en"
   orcid            : "http://www.orcid.org/0009-0000-5367-7179"
-
-  # Social media
-  linkedin         : "https://www.linkedin.com/in/shun-rao-01b935132"
+  linkedin         : "https://www.linkedin.com/in/shun-rao-01b935132?original_referer=https%3A%2F%2Fwww.google.com%2F"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

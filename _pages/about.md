@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a PhD Candidate in the Department of Biostatistics at the [University of Texas MD Anderson Cancer Center UTHealth Graduate School of Biomedical Sciences](https://gsbs.uth.edu/quantitative-sciences/index.htm), where I am fortunate to be advised by [Professor Yisheng Li](https://faculty.mdanderson.org/profiles/yisheng_li.html). Prior to joining MD Anderson, I worked as a biostatistics undergraduate intern at Boston Children's Hospital, affiliated with Harvard Medical School, under the supervision of [Professor Al Ozonoff](https://www.sabetilab.org/alozonoff/) and [Professor Joann Diray-Arce](https://connects.catalyst.harvard.edu/Profiles/display/Person/149197). I earned my BS in Statistics-Data Science from the Chinese University of Hong Kong, Shenzhen in 2021.
+
+My research interests lie in Bayesian Adaptive Design using Pharmacokinetic (PK) / Pharmacodynamic (PD) Model for Oncology Clinical Trials. By applying mechanism-based designs, I aim to systematically exploit biological and pharmacological mechanisms of the drug effects and identify the correct dosage of these drugs to control severe side effects and ensure adequate efficacy.
+
+When I’m not immersed in research, you’ll find me playing basketball, badminton, or piano, and spending time with my dog, Huzai.
 
 A data-driven personal website
 ======

@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
+---
 * Ph.D in Biostatistics, The University of Texas MD Anderson Cancer Center Graduate School of Biomedical Sciences, 2026 (expected)
 * B.S. in Statistics, The Chinese University of Hong Kong, Shenzhen, 2021
 

@@ -49,11 +49,6 @@ Skills
 * Tools: MySQL, HTML, Discovery Studio, Gaussian, Multiwfn
 * Interests: Badminton (national registered player), Basketball (varsity member), Piano
 
-Selected Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======

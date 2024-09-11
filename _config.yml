@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://shunrao8.github.io/files/life.jpeg"
+  avatar           : "https://shunrao8.github.io/files/mylife.jpeg"
   name             : "Shun Rao"
   pronouns         : "she/her"  
   bio              : "PhD candidate in Biostatistics"

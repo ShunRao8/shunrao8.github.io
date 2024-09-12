@@ -10,13 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
----
 * Ph.D in Biostatistics, The University of Texas MD Anderson Cancer Center Graduate School of Biomedical Sciences, 2026 (expected)
 * B.S. in Statistics, The Chinese University of Hong Kong, Shenzhen, 2021
 
-Work experience
-======
+## Work experience
 * <u>August 2022 - Now: Graduate Research Assistant</u>
   * Biostatistics Department, The University of Texas MD Anderson Cancer Center
     * Elicit Informative Priors for PK Model Parameters Using Published PK Summary Statistics
@@ -44,15 +41,13 @@ Work experience
   * Supervisor: Professor Baoting Zhu
 
   
-Skills
-======
+## Skills
 * Programming Language: R (RStan, RShiny), Python, Matlab
 * Tools: MySQL, HTML, Discovery Studio, Gaussian, Multiwfn
 * Interests: Badminton (national registered player), Basketball (varsity member), Piano
 
   
-Service and leadership
-======
+## Service and leadership
 * Captain & Member, College Women Basketball Team (2020-2021)
 * Member, Precision Vaccines Program (2019-2020)
 * Member, Human Immunology Project Consortium (2019-2020)
